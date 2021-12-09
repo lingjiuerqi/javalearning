@@ -9,3 +9,4 @@
 # ABQDemo.java ==> 有界阻塞队列实例
 # CreateDatabase.java ==> 连接创建mysql数据库
 # jdbcTest.java ==> 对mysql数据库初操作
+# QueryDemo.java ==> 对mysql数据库进行初步查询
